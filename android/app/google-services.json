@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799949545041",
+    "project_id": "clock-food",
+    "storage_bucket": "clock-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799949545041:android:718bc010290c3355e72270",
+        "android_client_info": {
+          "package_name": "com.example.clock_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799949545041-p272kb9ds1sj9hv120lbbkd2io9u0lpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Lo19n9Srfz4W8TydUYPxPbQNRdG8Vhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799949545041-p272kb9ds1sj9hv120lbbkd2io9u0lpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
